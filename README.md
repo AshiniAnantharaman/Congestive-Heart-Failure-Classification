@@ -1,4 +1,4 @@
-<h1 align="center">Congestive Heart Failure Prediction 🩺 </h1>
+<h1 align="center">Congestive Heart Failure Classification 🩺 </h1>
 
 ## Objective
 This repository will contain input dataset - heart.csv from Kaggle. The main aim of the project is to predict if a person will have heart failure based on various other factors or attributes like Age, Gender, Cholestrol, ChestPainType, Oldpeak, ExerciseAngina etc. There are multiple models used for the training purposes and various features like the F1 score, Accuracy, Precision, Recall etc are compared to get the best results for prediction.
