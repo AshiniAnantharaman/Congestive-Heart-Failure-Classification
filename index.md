@@ -46,14 +46,10 @@ As discussed above there are 11 features which are used for predicting the 12th 
 ## Analysis done
 Various analysis like gender and age distribution, the number of outliers, pairplot, correlation heatmaps were plotted to decide on various features which will affect the heart failure outcome.
 - Gender wise Analysis
-<p align="center">
-  <img src="https://github.com/AshiniAnantharaman/Congestive-Heart-Failure-Classification/blob/main/Gender-wise%20Distribution.png" />
-</p>
+![Gender Plot](https://github.com/AshiniAnantharaman/Congestive-Heart-Failure-Classification/blob/main/Gender-wise%20Distribution.png)
 
 - Age distribution and outliers
-<p align="center">
-  <img src="https://github.com/AshiniAnantharaman/Congestive-Heart-Failure-Classification/blob/main/Age%20Outliers.png" />
-</p>
+![Age Plot](https://github.com/AshiniAnantharaman/Congestive-Heart-Failure-Classification/blob/main/Age%20Outliers.png)
 
 ## Online dataset link
 https://www.kaggle.com/fedesoriano/heart-failure-prediction.
